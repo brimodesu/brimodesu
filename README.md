@@ -8,10 +8,8 @@ being experiencing creating things with code since 2015, from chatbots, bussines
 
 #### Connect with me:
 
-
-
 <p align="left"> 
-     <a href="https://brim01.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Personal%20Site-gray.svg?colorB=C28E08&style=for-the-badge" /></a>
+  <a href="https://brim01.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Personal%20Site-gray.svg?colorB=C28E08&style=for-the-badge" /></a>
   <a href="https://twitter.com/vurimo" target="_blank"  rel="noreferrer"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="@vurimo" /></a> 
 </p>
 
